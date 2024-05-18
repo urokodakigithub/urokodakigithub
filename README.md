@@ -1,9 +1,15 @@
 <h1 align="center">👋 Hi, I’m Harsh Chauhan </h1>
+
 - 👀 I’m interested in - dont know yet
+
 - 🌱 I’m currently learning web dev and fancy backflips
+
 - 💞️ I’m looking to collaborate on interesting web dev projects
+
 - 📫 How to reach me - you can reach me at contact.urokodaki@gmail.com
+
 - ⚡ Fun fact: I may or may not be Batman
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lowkicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lowkicodes" height="30" width="40" /></a>
