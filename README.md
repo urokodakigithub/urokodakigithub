@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Harsh Chauhan </h1>
+<h1 align="center">👋 Hi, I’m Kodaki </h1>
 
 - 👀 I’m interested in - dont know yet
 
