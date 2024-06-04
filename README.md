@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I’m Kodaki </h1>
 
-- 👀 I’m interested in - dont know yet
-
 - 🌱 I’m currently learning web dev and fancy backflips
 
 - 💞️ I’m looking to collaborate on interesting web dev projects
